@@ -8,7 +8,7 @@ let personalMovieDB = {
     actors: {},
     genres: [],
     privat: true,
-}
+};
 
 for (let i = 0; i < 2; i++) {
     let movie = prompt('Один из последних просмотренных фильмов?', "");
